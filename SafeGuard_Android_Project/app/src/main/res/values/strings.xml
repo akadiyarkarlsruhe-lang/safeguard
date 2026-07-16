@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SafeGuard Blocker</string>
+    <string name="admin_description">Ermöglicht den Deinstallationsschutz für SafeGuard Blocker.</string>
+</resources>
